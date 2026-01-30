@@ -1,0 +1,1 @@
+[![Python CI/CD Pipeline](https://github.com/johnnytan2885/python-ci-cd/actions/workflows/python-pipeline.yml/badge.svg)](https://github.com/johnnytan2885/python-ci-cd/actions/workflows/python-pipeline.yml)
